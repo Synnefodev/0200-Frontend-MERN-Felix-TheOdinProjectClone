@@ -270,7 +270,7 @@ Reference the corresponding GitHub Issue.
 Example:
 
 ```text
-Closes #3
+Relates #3
 ```
 
 ### Screenshots
